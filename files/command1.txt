@@ -1,0 +1,6 @@
+Cool car
+Model 0; 100000.00
+Model 1; 200000.00
+Model 2; 300000.00
+Model 3; 400000.00
+Model 4; 500000.00
